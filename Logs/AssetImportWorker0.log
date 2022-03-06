@@ -162,3 +162,27 @@ Received Import Request.
   path: Assets/00_Scenes
   artifactKey: Guid(2f77968e18c648f418fb6fcd20b6a1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/00_Scenes using Guid(2f77968e18c648f418fb6fcd20b6a1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d02a751980f573c402d0ee911517bb9') in 0.012233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 341.831899 seconds.
+  path: Assets/01_Scripts
+  artifactKey: Guid(5d58547664626884ea6c384778090253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_Scripts using Guid(5d58547664626884ea6c384778090253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3729d97fa0073269a1f4ba15a90f75a') in 0.020813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.037395 seconds.
+  path: Assets/01_Scripts/FlowMachines
+  artifactKey: Guid(1db95b38ad900204cb3bec31a9bfad64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_Scripts/FlowMachines using Guid(1db95b38ad900204cb3bec31a9bfad64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e958ac46f482a89be2e900f890555249') in 0.016291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.610953 seconds.
+  path: Assets/01_Scripts/FlowMachines/New Flow Macro.asset
+  artifactKey: Guid(759a4351c2fcfd647b4bdfc6051c5be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_Scripts/FlowMachines/New Flow Macro.asset using Guid(759a4351c2fcfd647b4bdfc6051c5be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b2cc25a89a0134054359bbbadaff6d') in 0.131526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.586053 seconds.
+  path: Assets/01_Scripts/FlowMachines/Test.asset
+  artifactKey: Guid(759a4351c2fcfd647b4bdfc6051c5be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_Scripts/FlowMachines/Test.asset using Guid(759a4351c2fcfd647b4bdfc6051c5be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187e0d99b7667576d9364a9d42e4da4e') in 0.014762 seconds 
