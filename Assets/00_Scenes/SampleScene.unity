@@ -310,6 +310,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8887726349511663063, guid: 93ad6302e55633d40bf6f5bc980225ad, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 9148445211481855878, guid: 93ad6302e55633d40bf6f5bc980225ad, type: 3}
       propertyPath: m_Height
       value: 0
@@ -566,6 +570,10 @@ PrefabInstance:
     - target: {fileID: 6728495227766601481, guid: 93ad6302e55633d40bf6f5bc980225ad, type: 3}
       propertyPath: m_Name
       value: Player 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6862088023987942498, guid: 93ad6302e55633d40bf6f5bc980225ad, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9148445211481855878, guid: 93ad6302e55633d40bf6f5bc980225ad, type: 3}
       propertyPath: m_IsTrigger
